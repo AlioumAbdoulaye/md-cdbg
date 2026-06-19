@@ -4,7 +4,7 @@ This repository contains the simulation code, experimental results, and figures
 for the paper:
 
 > **A Multi-Domain Cyber-Deception Bayesian Game for Resilient IoT Systems**
-> Alioum Abdoulaye, Zainab Issa Ahmad, Yacine Benallouche, 
+> Alioum Abdoulaye, Yacine Benallouche, 
 > Abdelhak Mourad Gueroui, Ado Adamou Abba Ari.
 
 ## Overview
